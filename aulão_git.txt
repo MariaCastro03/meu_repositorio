@@ -1,2 +1,2 @@
 Frase escrita antes do merge.
-
+Frase escrita na nova branch.
